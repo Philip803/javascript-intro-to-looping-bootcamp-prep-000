@@ -4,5 +4,4 @@ function forLoop(){
     array.push =  `I am ${i === 1 ? 1 : i} stange loop.`
   }
   return array;
-  
 }
